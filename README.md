@@ -594,7 +594,7 @@ The dashboard uses a modern EV technology theme.
 
 ## Author
 
-### **Nithyanandhan**
+### **Nithyanandhan K (AF05258492)**
 
 **Project:** VoltGrid Energy – Enterprise EV Charging Network Performance Intelligence Platform
 
