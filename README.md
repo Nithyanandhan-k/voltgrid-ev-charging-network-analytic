@@ -478,9 +478,16 @@ VoltGrid-EV-Charging-Network-Analytics/
 The project contains four Power BI dashboard pages:
 
 1. **Executive Overview**
+   <img width="1321" height="742" alt="ev charging network analytics performance and revenue intelligence" src="https://github.com/user-attachments/assets/025d2fca-095e-4738-8e04-80d13a14e5bf" />
 2. **Charging Operations & Station Performance**
+   <img width="1320" height="740" alt="Ev charging operations   stations performance" src="https://github.com/user-attachments/assets/71df3a2a-a363-4ba9-8111-511963e722ca" />
+
 3. **Revenue & Customer Analytics**
+   <img width="1316" height="740" alt="image" src="https://github.com/user-attachments/assets/0d1f5434-3571-47eb-bab5-d588f4681e64" />
+
 4. **Sustainability & Network Risk**
+   <img width="1325" height="740" alt="Ev charging sustainability and network risk" src="https://github.com/user-attachments/assets/7a127c43-d5c6-45a9-b063-9b03e6c41906" />
+
 
 ## How to Run the Project
 
